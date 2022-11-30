@@ -17,6 +17,15 @@
     Os estudantes de hoje não se comportam da mesma forma que os estudantes de<span
 style="background: #f398d8; border-radius:5px; padding:5px">5 ou 10 anos atrás.</span>.
 </p>
+<div>
+    <h2>Benefícios:</h2>
+    <ul>
+        <li>Melhor aprendizagem</li>
+        <li>Protagonismo do estudante</li>
+        <li>Maior liberdade de aprendizado</li>
+    </ul>
+</div>
 <img src="http://arquivo.devmedia.com.br/artigos/Joel_Rodrigues/HTMLBasico/avatar.png" alt="tecnologia na escola" title="Avatar" #tamfixo/>
 <img src="https://i0.wp.com/blog.portaleducacao.com.br/wp-content/uploads/2022/02/365-O-que-e%CC%81-tecnologia_.jpg?w=1200&ssl=1" alt="Texto alternativo" title="Outra figura"/>
 <form action="salvar_dados.php" method="post"></form>
+>>>>>>> 696f12215729f89d8e367944febf2953f78b6938
